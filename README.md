@@ -7,6 +7,9 @@ This repository contains advanced Java code snippets and examples.
 ## Table of Contents
 
 - [Introduction](#introduction)
+ ```markdown
+[Link to Day1.md](Day1.md)
+```
 
 ## Introduction
 
