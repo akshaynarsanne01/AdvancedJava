@@ -18,6 +18,21 @@ It adds dynamic nature to the web applications.
 
 ![image](https://github.com/akshaynarsanne01/Advaned-Java/assets/147087536/d8584bda-11ea-4c64-a9c2-25feabf6b8e3)
 
+## Java Servlet API Components
+
+| Component           | Type      | Package                 |
+|---------------------|-----------|-------------------------|
+| Servlet             | Interface | javax.servlet.*         |
+| ServletRequest      | Interface | javax.servlet.*         |
+| ServletResponse     | Interface | javax.servlet.*         |
+| GenericServlet      | Class     | javax.servlet.*         |
+| HttpServlet         | Class     | javax.servlet.http.*    |
+| HttpServletRequest  | Interface | javax.servlet.http.*    |
+| HttpServletResponse | Interface | javax.servlet.http.*    |
+| Filter              | Interface | javax.servlet.*         |
+| ServletConfig       | Interface | javax.servlet.*         |
+
+
 ## Deployment Of servelet
 There are two methods
 ### ANNOTATIONS :
