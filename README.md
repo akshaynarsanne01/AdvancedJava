@@ -7,7 +7,8 @@ This repository contains advanced Java code snippets and examples.
 ## Table of Contents
 
 - [Introduction](#introduction)
-[Link to Day1.md](Day1.md)
+[Day1.md](Day1.md)
+[Day2.md](day2.md)
 
 ## Introduction
 
